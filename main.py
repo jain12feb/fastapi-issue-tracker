@@ -26,9 +26,9 @@ app.add_middleware(
 
 app.include_router(issue_routes, prefix="/api/v1")    
 
-# @app.get("/")
-# async def root():
-#     return {"message": "Hello World"}
+@app.get("/")
+async def root():
+    return {"message": "Hello World"}
 
 # items : list[dict[str, str]] = [
 #     {"id": 1, "name": "Item 1", "description": "This is item 1"},

@@ -5,5 +5,12 @@
     "priority": "high",
     "id": "7956ccfc-2579-44ea-98a5-83251b214752",
     "status": "open"
+  },
+  {
+    "title": "Create new feature token",
+    "description": "Single entry point token for all the features and functionality",
+    "priority": "medium",
+    "id": "5a35f481-9d57-448f-beba-0bca6313e0ef",
+    "status": "open"
   }
 ]
