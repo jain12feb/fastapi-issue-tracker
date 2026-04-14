@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Bug in API response",
+    "description": "Add identical responses to all error responses",
+    "priority": "high",
+    "id": "7956ccfc-2579-44ea-98a5-83251b214752",
+    "status": "open"
+  }
+]
